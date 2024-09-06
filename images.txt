@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 nginx
 redis
-kafka
 mysql
 mariadb
 zookeeper
+bitnami/kafka
