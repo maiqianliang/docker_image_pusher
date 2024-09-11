@@ -10,4 +10,5 @@
 #mariadb
 #zookeeper
 #bitnami/kafka
-schemaspy/schemaspy
+#schemaspy/schemaspy
+mysql:8.0.18
