@@ -12,3 +12,5 @@
 #bitnami/kafka
 #schemaspy/schemaspy
 mysql:8.0.18
+redis:7.4.0
+tomcat:8.5.100-jre8-temurin-jammy
