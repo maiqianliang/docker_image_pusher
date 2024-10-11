@@ -14,4 +14,6 @@
 #mysql:8.0.18
 #redis:7.4.0
 #tomcat:8.5.100-jre8-temurin-jammy
-redis:7.4.1-alpine
+#redis:7.4.1-alpine
+bitnami/kafka:3.3
+zookeeper:3.5
