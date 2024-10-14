@@ -18,4 +18,7 @@
 #bitnami/kafka:3.3
 #zookeeper:3.5
 #sheepkiller/kafka-manager:stable
-mysql:5.7.13
+#mysql:5.7.13
+kibana:7.17.0
+logstash:7.17.0
+elasticsearch:7.17.0
