@@ -23,3 +23,4 @@ kibana:7.17.0
 logstash:7.17.0
 elasticsearch:7.17.0
 elastic/filebeat:7.17.0
+whyour/qinglong:latest
