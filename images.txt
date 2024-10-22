@@ -25,4 +25,5 @@
 #elastic/filebeat:7.17.0
 #whyour/qinglong:latest
 #confluentinc/cp-kafka:latest
-rediscommander/redis-commander:latest
+#rediscommander/redis-commander:latest
+ghcr.io/kafbat/kafka-ui:v1.0.0
