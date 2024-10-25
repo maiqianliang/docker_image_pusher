@@ -27,3 +27,4 @@
 #confluentinc/cp-kafka:latest
 #rediscommander/redis-commander:latest
 ghcr.io/kafbat/kafka-ui:v1.0.0
+apache/kafka:3.8.0
