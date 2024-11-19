@@ -26,5 +26,6 @@
 #whyour/qinglong:latest
 #confluentinc/cp-kafka:latest
 #rediscommander/redis-commander:latest
-ghcr.io/kafbat/kafka-ui:v1.0.0
-apache/kafka:3.8.0
+#ghcr.io/kafbat/kafka-ui:v1.0.0
+#apache/kafka:3.8.0
+nginx:1.27.2
