@@ -31,4 +31,4 @@
 #nginx:1.27.2
 #openjdk:8-jdk-alpine
 #alpine:3.12
-ubuntu:24.0.4
+ubuntu:24.04
