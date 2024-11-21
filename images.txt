@@ -29,4 +29,5 @@
 #ghcr.io/kafbat/kafka-ui:v1.0.0
 #apache/kafka:3.8.0
 #nginx:1.27.2
-openjdk:8-jdk-alpine
+#openjdk:8-jdk-alpine
+alpine:3.12
