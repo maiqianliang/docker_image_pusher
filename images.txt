@@ -30,4 +30,5 @@
 #apache/kafka:3.8.0
 #nginx:1.27.2
 #openjdk:8-jdk-alpine
-alpine:3.12
+#alpine:3.12
+ubuntu:24.0.4
