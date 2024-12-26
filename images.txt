@@ -32,4 +32,5 @@
 #openjdk:8-jdk-alpine
 #alpine:3.12
 #ubuntu:24.04
-dbgate/dbgate
+#dbgate/dbgate
+sameernyaupane/shc
