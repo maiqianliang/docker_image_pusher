@@ -33,4 +33,4 @@
 #alpine:3.12
 #ubuntu:24.04
 #dbgate/dbgate
-sameernyaupane/shc
+sameernyaupane/shc:1.8
