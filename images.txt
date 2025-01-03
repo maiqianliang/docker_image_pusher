@@ -34,4 +34,5 @@
 #ubuntu:24.04
 #dbgate/dbgate
 #sameernyaupane/shc:1.8
-apache/rocketmq:latest
+#apache/rocketmq:latest
+apache/rocketmq-console:latest
