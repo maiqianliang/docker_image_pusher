@@ -37,4 +37,4 @@
 #apache/rocketmq:latest
 #styletang/rocketmq-console-ng
 #k8s.gcr.io/pause:3.1
-docker pull python:3.8-slim
+python:3.8-slim
