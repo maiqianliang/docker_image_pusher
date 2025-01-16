@@ -37,4 +37,5 @@
 #apache/rocketmq:latest
 #styletang/rocketmq-console-ng
 #k8s.gcr.io/pause:3.1
-python:3.8-slim
+#python:3.8-slim
+rocketmqinc/rocketmq-client-cpp:latest
