@@ -40,4 +40,5 @@
 #python:3.8-slim
 #rocketmqinc/rocketmq-client-cpp:latest
 #minio/minio:latest
-node:16-alpine
+#node:16-alpine
+docker/engine-clit:1.0.0-beta.2-dirty
