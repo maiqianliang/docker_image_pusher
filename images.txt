@@ -42,4 +42,5 @@
 #minio/minio:latest
 #node:16-alpine
 #docker/engine-clit:1.0.0-beta.2-dirty
-jenkins/jenkins:lts
+#jenkins/jenkins:lts
+portainer
