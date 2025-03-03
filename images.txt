@@ -44,3 +44,4 @@
 #docker/engine-clit:1.0.0-beta.2-dirty
 #jenkins/jenkins:lts
 portainer/portainer-ce
+liuximeng520/portainer-zh:2.19.0
