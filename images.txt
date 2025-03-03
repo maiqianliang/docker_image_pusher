@@ -45,4 +45,4 @@
 #jenkins/jenkins:lts
 #portainer/portainer-ce
 #liuximeng520/portainer-zh:2.19.0
-openssl/openssl
+alpine/openssl
